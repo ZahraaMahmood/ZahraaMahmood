@@ -15,3 +15,25 @@
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
+
+<div align="center">
+  <img src="" width="600" height="300"/>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iraq.
+
+- :telescope: I’m working as a Front end developer building amazing things using different tools
+
+- :seedling: I like Reading Tech books and sometimes I Write.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Zahraa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zahraa-mahmood/)
+
+
+
+
