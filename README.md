@@ -17,14 +17,14 @@
 </div>
 
 <div align="center">
-  <img src="" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJtOGp2czZrdWh1MXRlNDJ4NmljbWk2NmRlY3RqZ3IwaDJmYWpieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
 ### :woman_technologist: About Me :
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iraq.
+I am a Frontend Developer from Iraq.
 
 - :telescope: I’m working as a Front end developer building amazing things using different tools
 
@@ -34,6 +34,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Zahraa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zahraa-mahmood/)
 
+---
 
+### :hammer_and_wrench: Languages and Tools :
 
 
