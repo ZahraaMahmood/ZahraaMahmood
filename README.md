@@ -24,11 +24,11 @@
 
 ### :woman_technologist: About Me :
 
-I am a Frontend Developer from Iraq.
+I am a Front-end Developer from Iraq.
 
-- :telescope: I’m working as a Front end developer building amazing things using different tools
+- :telescope: I’m working as a Front-end developer building amazing things using different tools
 
-- :seedling: I like Reading Tech books and sometimes I Write.
+- :seedling: I like reading tech books and sometimes I write.
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
