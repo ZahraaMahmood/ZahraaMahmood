@@ -30,7 +30,7 @@ I am a Front-end Developer from Iraq.
 
 - :seedling: I like reading tech books and sometimes I write.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my free time, I practice calligraphy and I play football.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Zahraa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zahraa-mahmood/)
 
