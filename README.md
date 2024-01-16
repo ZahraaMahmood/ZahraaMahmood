@@ -24,9 +24,9 @@
 
 ### :woman_technologist: About Me :
 
-I am a Front-end Developer from Iraq.
+I am a Web Developer from Iraq.
 
-- :telescope: I’m working as a Front-end developer building amazing things using different tools
+- :telescope: I’m working as a web developer building amazing things using different programming languages and tools.
 
 - :seedling: I like reading tech books and sometimes I write.
 
