@@ -24,13 +24,13 @@
 
 ### :woman_technologist: About Me :
 
-I am a Web Developer from Iraq.
+I'm a Web Developer from Iraq.
 
 - :telescope: I’m working as a web developer building amazing things using different programming languages and tools.
 
 - :seedling: I like reading tech books and sometimes I write.
 
-- :zap: In my free time, I practice calligraphy and I play football.
+- :zap: I practice calligraphy and play football in my free time.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Zahraa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zahraa-mahmood/)
 
